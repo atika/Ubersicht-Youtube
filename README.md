@@ -6,10 +6,10 @@
 
 Widget who display public statistics of an __Youtube__ user channel on your Mac OS X desktop with [Übersicht](http://tracesof.net/uebersicht/).
 
+## June 2015: The widget no longer works and I doesn't have time to work on it for the moment... Youtube changed the API 1/2 month ago and stopped the simple way I used before to retrieve information.
 
 
 ![Youtube Übersicht Widget](./screenshot.png)
-
 
 ## Installation
 
